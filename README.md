@@ -1,10 +1,10 @@
 # Todolist & Calendar
 
-A personal productivity web app that combines a **todo list** and a **calendar** in one place. Create tasks, assign them a date and time, and see them visualized on an interactive calendar.
+A personal productivity web app that combines a **todo list** and a **calendar** in one place using claude code. It create tasks, assign them a date and time, and see them visualized on an interactive calendar.
 
 ## Screenshot
 
-![App Screenshot](screenshots/app.png)
+![App Screenshot](prompt used/Capture d'écran 2026-03-20 095226.png)
 
 ## Features
 
@@ -12,16 +12,9 @@ A personal productivity web app that combines a **todo list** and a **calendar**
 - Assign a date and time to each task
 - Mark tasks as done
 - View tasks on a monthly/weekly/daily calendar
-- Drag and drop tasks to reschedule
-- Data persisted in local storage (no backend needed)
 
-## Tech Stack
+## Prompt used
 
-- [Next.js 14](https://nextjs.org/)
-- [React](https://react.dev/)
-- [TailwindCSS](https://tailwindcss.com/)
-- [FullCalendar](https://fullcalendar.io/)
-- Local Storage
 
 ## Getting Started
 
@@ -30,4 +23,4 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open [http://localhost:3001](http://localhost:3001) in your browser.
