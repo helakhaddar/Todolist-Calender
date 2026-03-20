@@ -2,8 +2,8 @@
 
 A personal productivity web app that combines a **todo list** and a **calendar** in one place using claude code. It create tasks, assign them a date and time, and see them visualized on an interactive calendar.
 
-## Screenshot
-
+## Preview
+This is the main interface of the application, where you can manage your tasks on the left and visualize them on an interactive calendar.
 ![App Screenshot](prompt%20used/screenshot.png)
 
 ## Features
