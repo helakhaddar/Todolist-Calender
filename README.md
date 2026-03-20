@@ -3,6 +3,7 @@
 A personal productivity web app that combines a **todo list** and a **calendar** in one place using claude code. It create tasks, assign them a date and time, and see them visualized on an interactive calendar.
 
 ## Preview
+
 This is the main interface of the application, where you can manage your tasks on the left and visualize them on an interactive calendar.
 ![App Screenshot](prompt%20used/screenshot.png)
 
@@ -13,8 +14,11 @@ This is the main interface of the application, where you can manage your tasks o
 - Mark tasks as done
 - View tasks on a monthly/weekly/daily calendar
 
-## Prompt used
-You will find the prompt used to create the calendar application i in : prompt%20used/prompt
+## Prompt Used
+
+This project was developed using Claude Code.  
+You can explore the exact prompt used to build the application here:  
+[View Prompt](./prompt-used/prompt.md)
 
 ## Getting Started
 
