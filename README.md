@@ -18,7 +18,7 @@ This is the main interface of the application, where you can manage your tasks o
 
 This project was developed using Claude Code.  
 You can explore the exact prompt used to build the application here:  
-[View Prompt](promptused/prompt.md)
+[View Prompt](Prompt-used)
 
 ## Getting Started
 
