@@ -4,7 +4,7 @@ A personal productivity web app that combines a **todo list** and a **calendar**
 
 ## Screenshot
 
-![App Screenshot](prompt used/Capture d'écran 2026-03-20 095226.png)
+![App Screenshot](prompt%20used/screenshot.png)
 
 ## Features
 
@@ -14,7 +14,7 @@ A personal productivity web app that combines a **todo list** and a **calendar**
 - View tasks on a monthly/weekly/daily calendar
 
 ## Prompt used
-
+You will find the prompt used to create the calendar application i in : prompt%20used/prompt
 
 ## Getting Started
 
